@@ -6,6 +6,7 @@ Before that I built apps for Flybuys, BTC Markets and EnergyAustralia. Based in 
 I care about architecture that big teams can share: modular Swift packages, strict concurrency,
 closure-based dependency injection, and tests that earn their keep.
 
+I work AI-native: Claude Code daily with custom rules, skills and agents, and AI-assisted code review.
 Outside work I run local LLMs on my own hardware and self-host most of what I use.
 
 ### Selected projects
