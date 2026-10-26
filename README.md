@@ -12,7 +12,7 @@ Outside work I run local LLMs on my own hardware and self-host most of what I us
 
 | Project | What it is |
 |---|---|
-| [**Stepkin**](https://github.com/cliftonia/iMon) | A virtual pet for Apple Watch, inspired by late-'90s LCD pets. Swift 6, zero dependencies, a pure `nonisolated` simulation engine, HealthKit steps drive evolution and WeatherKit drives the scene. |
+| [**Stepkin**](https://github.com/cliftonia/Stepkin) | A virtual pet for Apple Watch, inspired by late-'90s LCD pets. Swift 6, zero dependencies, a pure `nonisolated` simulation engine, HealthKit steps drive evolution and WeatherKit drives the scene. |
 | [**Subspace**](https://github.com/cliftonia/Subspace) | An iOS messaging app in SwiftUI with Clean Architecture, WebSockets, Sign in with Apple and its own [Go backend](https://github.com/cliftonia/LCARS-BE-GO). |
 | [**Deep Orbit**](https://github.com/cliftonia/DeepOrbit) | A space strategy game for iPhone in SpriteKit: procedural galaxy, AI factions, fleets and save/load. |
 
