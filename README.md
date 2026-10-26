@@ -1,7 +1,7 @@
 ## Hi, I'm Clifton 👋
 
 Senior iOS Engineer at **Entain**, working on the shared iOS platform behind Ladbrokes, Neds, TAB NZ and Betcha.
-Before that I built apps for Flybuys, BTC Markets and EnergyAustralia. Based in Brisbane, Australia.
+Before that I worked on apps for Flybuys, BTC Markets and EnergyAustralia. Based in Brisbane, Australia.
 
 I care about architecture that big teams can share: modular Swift packages, strict concurrency,
 closure-based dependency injection, and tests that earn their keep.
@@ -13,7 +13,8 @@ Outside work I run local LLMs on my own hardware and self-host most of what I us
 | Project | What it is |
 |---|---|
 | [**iMon**](https://github.com/cliftonia/iMon) | A virtual pet for Apple Watch. Swift 6, zero dependencies, a pure `nonisolated` simulation engine, HealthKit steps drive evolution and WeatherKit drives the scene. |
-| [**ytv**](https://github.com/cliftonia/ytv) | A retro cable-TV dial for Android TV. The lineup is a JSON file rebuilt nightly by GitHub Actions, streams resolve on the device, and the video engine is chosen by what the display can do. No server. |
+| [**Subspace**](https://github.com/cliftonia/Subspace) | An iOS messaging app in SwiftUI with Clean Architecture, WebSockets, Sign in with Apple and its own [Go backend](https://github.com/cliftonia/LCARS-BE-GO). |
+| [**Deep Orbit**](https://github.com/cliftonia/DeepOrbit) | A space strategy game for iPhone in SpriteKit: procedural galaxy, AI factions, fleets and save/load. |
 
 ### Stack
 
