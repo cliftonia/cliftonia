@@ -13,7 +13,6 @@ Outside work I run local LLMs on my own hardware and self-host most of what I us
 | Project | What it is |
 |---|---|
 | [**iMon**](https://github.com/cliftonia/iMon) | A virtual pet for Apple Watch. Swift 6, zero dependencies, a pure `nonisolated` simulation engine, HealthKit steps drive evolution and WeatherKit drives the scene. |
-| [**NextToGoRacesApp**](https://github.com/cliftonia/NextToGoRacesApp) | Live upcoming-races list in SwiftUI with async/await, an actor-based service, Swift Testing and full VoiceOver / Dynamic Type support. |
 | [**ytv**](https://github.com/cliftonia/ytv) | A retro cable-TV dial for Android TV. The lineup is a JSON file rebuilt nightly by GitHub Actions, streams resolve on the device, and the video engine is chosen by what the display can do. No server. |
 
 ### Stack
