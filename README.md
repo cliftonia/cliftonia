@@ -12,6 +12,7 @@ Outside work I run local LLMs on my own hardware and self-host most of what I us
 
 | Project | What it is |
 |---|---|
+| [**Hearth**](https://github.com/cliftonia/Hearth) | A private chat app for your own Ollama server, on iPhone, iPad and Mac, with an [Android sibling](https://github.com/cliftonia/HearthAndroid). Streamed replies, web search through your own SearXNG, hands-free voice, and pictures made on your own ComfyUI. SwiftUI with zero dependencies; Kotlin and Jetpack Compose on Android. Nothing leaves your own hardware. |
 | [**Stepkin**](https://github.com/cliftonia/Stepkin) | A virtual pet for Apple Watch, inspired by late-'90s LCD pets. Swift 6, zero dependencies, a pure `nonisolated` simulation engine, HealthKit steps drive evolution and WeatherKit drives the scene. |
 | [**Subspace**](https://github.com/cliftonia/Subspace) | An iOS messaging app in SwiftUI with Clean Architecture, WebSockets, Sign in with Apple and its own [Go backend](https://github.com/cliftonia/LCARS-BE-GO). |
 | [**Deep Orbit**](https://github.com/cliftonia/DeepOrbit) | A space strategy game for iPhone in SpriteKit: procedural galaxy, AI factions, fleets and save/load. |
