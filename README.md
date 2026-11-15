@@ -1,7 +1,6 @@
 ## Hi, I'm Clifton 👋
 
-Senior iOS Engineer at **Entain**, working on the shared iOS platform behind Ladbrokes, Neds, TAB NZ and Betcha.
-Before that I worked on apps for Flybuys, BTC Markets and EnergyAustralia. Based in Brisbane, Australia.
+Senior iOS Engineer
 
 I care about architecture that big teams can share: modular Swift packages, strict concurrency,
 closure-based dependency injection, and tests that earn their keep.
