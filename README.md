@@ -10,7 +10,7 @@ are mostly built for that setup.
 
 <p>
   <a href="https://github.com/cliftonia/Hearth"><img src="https://raw.githubusercontent.com/cliftonia/Hearth/main/docs/screenshots/chat.png" alt="Hearth chat with a formatted reply and code blocks" height="300"></a>
-  <a href="https://github.com/cliftonia/Stepkin"><img src="https://raw.githubusercontent.com/cliftonia/Stepkin/main/docs/images/intro.png" alt="Stepkin pet introducing itself on Apple Watch" height="300"></a>
+  <a href="https://github.com/cliftonia/Stepkin"><img src="https://raw.githubusercontent.com/cliftonia/Stepkin/main/docs/images/screens/pet.png" alt="Stepkin pet on its LCD on Apple Watch" height="300"></a>
   <a href="https://github.com/cliftonia/Subspace"><img src="https://raw.githubusercontent.com/cliftonia/Subspace/main/docs/screenshots/comms.png" alt="Subspace LCARS-styled message list" height="300"></a>
 </p>
 
