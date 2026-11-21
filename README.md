@@ -12,6 +12,7 @@ are mostly built for that setup.
   <a href="https://github.com/cliftonia/Hearth"><img src="https://raw.githubusercontent.com/cliftonia/Hearth/main/docs/screenshots/chat.png" alt="Hearth chat with a formatted reply and code blocks" height="300"></a>
   <a href="https://github.com/cliftonia/Stepkin"><img src="https://raw.githubusercontent.com/cliftonia/Stepkin/main/docs/images/screens/pet.png" alt="Stepkin pet on its LCD on Apple Watch" height="300"></a>
   <a href="https://github.com/cliftonia/Subspace"><img src="https://raw.githubusercontent.com/cliftonia/Subspace/main/docs/screenshots/comms.png" alt="Subspace LCARS-styled message list" height="300"></a>
+  <a href="https://github.com/cliftonia/ytv"><img src="https://raw.githubusercontent.com/cliftonia/ytv/main/docs/screenshots/guide.jpg" alt="YTV channel guide on Android TV, channels 28 to 40 with what is on now and next" height="300"></a>
 </p>
 
 ### Selected projects
